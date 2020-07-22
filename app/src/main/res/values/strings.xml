@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DicodingFirstSubmission</string>
+    <string name="heading_txt">This is heading</string>
+    <string name="content_txt">This is content</string>
+    <string name="detail">Detail</string>
+    <string name="book">Book Now</string>
+    <string name="share">Share</string>
+</resources>
